@@ -1,4 +1,4 @@
-# 🛒 Online Food Store 🍔
+# 🛒 BiteHub 🍔
 
 An end-to-end web application for browsing, selecting, and ordering food online — built using **React** for the frontend, **Spring Boot** for the backend, and **MongoDB** for data persistence.
 
